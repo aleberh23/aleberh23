@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**aleberh23/aleberh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Alejandro 👋
+![banner- linkedin](https://github.com/aleberh23/aleberh23/assets/158856472/2d45747d-7814-4b16-b847-7bc054f1bef2)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I'm a Java Backend Developer currently freelancing, deeply passionate about solving real-world problems through the creation of software solutions.
+
+## 🚀 Technologies & Languages
+
+- **Java**
+- **Spring**
+- **Hibernate**
+- **Spring Security**
+- **JasperReports**
+- **Thymeleaf**
+- **PostgreSQL**
+- **HTML**
+
+Feel free to explore my repositories and don't hesitate to reach out for collaboration or interesting projects!
